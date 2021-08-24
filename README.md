@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phil-all
-- 
+
 - 👀 I’m interested in web dev
-- 
+
 - 🌱 I’m currently learning SQL PHP Symfony
 <!--
 - 💞️ I’m looking to collaborate on ...
