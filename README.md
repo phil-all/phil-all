@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phil-all
 
-- 👀 I’m interested in web dev
+- 👀 I’m interested in web dev : SQL / PHP / OOP
 
 - 🌱 I’m currently learning SQL PHP Symfony
 <!--
