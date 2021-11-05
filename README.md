@@ -22,3 +22,14 @@ My name is Philippe Allard-Latour and I'm currently studing **Web app developmen
 ![](https://img.shields.io/badge/Tools-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Mariadb-informational?style=flat&logo=mariadb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/misc-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+
+---
+
+**Knowledge I would want to deepin**
+
+- Apache server
+- Bootstrap 5
+- SASS
+- Javascript
+- Node JS
